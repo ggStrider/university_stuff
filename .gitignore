@@ -1,0 +1,32 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Build directories
+cmake-build-*/
+
+# Executables and object files
+*.out
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+*.dylib
+
+# CLion project files
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
