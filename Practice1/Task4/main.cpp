@@ -28,4 +28,6 @@ int main() {
 
     cout << endl << "Your salary: " << salary << endl << "Your age: " << age << endl;
     cout << "Your name: " << name << endl << "Your desired position: " << desiredPosition << endl;
+	
+	return 0;
 }
