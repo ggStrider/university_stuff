@@ -30,3 +30,42 @@ cmake-build-*/
 # Windows
 Thumbs.db
 Desktop.ini
+
+# Visual Studio
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.db
+*.suo
+*.user
+*.userossc
+*.tt
+*.tlog
+*.log
+*.lastbuildstate
+*.ipch
+*.pdb
+*.cachefile
+*.iobj
+*.ipdb
+*.idb
+*.dir
+*.obj
+*.exe
+*.ilk
+*.aps
+*.pch
+*.rsp
+*.tmp
+*.tli
+*.tlh
+*.vscode/
+*.VC.db
+*.VC.opendb
+
+# Visual Studio auto-generated files
+GeneratedFiles/
+*.gen.cpp
