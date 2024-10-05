@@ -26,7 +26,5 @@ int main() {
         cout << currentValue << endl;
     }
 
-    if(startValue)
-
     return 0;
 }
